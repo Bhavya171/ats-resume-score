@@ -1,0 +1,7 @@
+os
+typing
+logging 
+datetime
+pdfplumber
+re
+pyresparser
