@@ -48,7 +48,7 @@ def parse_resume(
         logger.warning(f"Invalid file extension for: {file_path}")
         raise InvalidFileFormatError(f"Unsupported file type: {file_path}")
 
-    validate_resume_file(file_path)  
+    validate_resume_file(file_path) 
 
     parsed = {}
     try:
