@@ -31,6 +31,7 @@ This project parses resumes, extracts relevant information, compares them agains
 ---
 
 ## Project Structure
+```plaintext
 ats_resume_score/
 ├── ats_score.py # CLI tool for scoring
 ├── logs/
@@ -54,7 +55,7 @@ ats_resume_score/
 │ └── test_score_service.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
