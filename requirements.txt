@@ -1,10 +1,10 @@
-os
-typing
-logging 
-datetime
 pdfplumber
-re
 pyresparser
-sklearn
+scikit-learn
+spacy
+nltk
+pandas
+numpy
+python-docx
+PyMuPDF
 pytest
-argparse
