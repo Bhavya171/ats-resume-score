@@ -5,3 +5,6 @@ datetime
 pdfplumber
 re
 pyresparser
+sklearn
+pytest
+argparse
